@@ -4,7 +4,7 @@ This repository contains my personal OpenCore EFI configuration for the Lenovo T
 
 ## Currently running
 - macOS 12.2 Monterey
-- OpenCore 0.7.6
+- OpenCore 0.7.9
 
 ## Laptop's Hardware
 | Component        | Model                            |
